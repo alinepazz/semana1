@@ -1,0 +1,37 @@
+﻿body{
+ font-family: "verdana";
+}
+ h1, h2, h3{
+  color: red;
+
+}
+h1{
+  background-image: url("https://img.freepik.com/free-vector/hexagonal-pattern_1051-833.jpg?size=338&ext=jpg");
+
+}
+
+h2, h3{
+  border: ridge;
+}
+
+figure {
+  background-color: gray;
+  border: ridge;
+  text-align: center;
+}
+
+figcaption{
+  font-style: italic;
+  text-align: center;
+}
+
+#ihtml {
+  width: 10%;
+  
+
+}
+
+footer > img{
+  width: 100%;
+
+}
